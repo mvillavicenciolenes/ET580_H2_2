@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Student A\n";
+    std::cout << "Michael Villavicencio A\n";
     return 0;
 }
