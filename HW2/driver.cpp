@@ -7,6 +7,8 @@ int main() {
     std::cout << "Michael Villavicencio B\n";
     std::cout << "Fariha Binte Mahmud B\n";
     std::cout << "Rukaiya Ruhi B\n";
+    std::cout << "Fariha Binte Mahmud C\n";
+
 
 
     return 0;
